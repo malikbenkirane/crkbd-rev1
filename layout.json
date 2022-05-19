@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "notes": "My awesome keymap, deserve to evolve!",
+  "documentation": "\nRead about qmk at doc.qmk.fm to flash this keyboard.\nI hope you will be on the right track ;-)\n\n",
+  "keyboard": "crkbd/rev1",
+  "keymap": "malik-rc2",
+  "layout": "LAYOUT_split_3x5_3",
+  "layers": [
+    [
+
+      "KC_Q", "KC_W", "KC_E", "KC_R", "KC_T",
+      "KC_Y", "KC_U", "KC_I", "KC_O", "KC_P",
+
+      "KC_A", "KC_S", "KC_D", "KC_F", "KC_G",
+      "KC_H", "KC_J", "KC_K", "KC_L", "KC_SCLN",
+
+      "KC_Z", "KC_X", "KC_C", "KC_V", "KC_B",
+      "KC_N", "KC_M", "KC_COMM", "KC_DOT", "KC_SLSH",
+
+      "OSL(1)",
+      "KC_NO",
+      "KC_BSPC",
+
+      "KC_SPC",
+      "KC_ENT",
+      "OSL(2)"
+
+    ],
+    [
+
+      "KC_1", "KC_2", "KC_3", "KC_4", "KC_5",
+      "KC_6", "KC_7", "KC_8", "KC_9", "KC_0",
+
+      "KC_QUOT", "KC_NO", "KC_NO", "KC_LBRC", "KC_RBRC",
+      "KC_PIPE", "KC_DOWN", "KC_LEFT", "KC_RGHT", "KC_DOWN",
+
+      "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_GRV",
+      "KC_BSLS", "KC_NO", "KC_NO", "KC_NO", "KC_NO",
+
+      "TO(1)",
+      "TO(0)",
+      "KC_LSFT",
+
+      "KC_RSFT",
+      "TO(3)",
+      "TO(0)"
+
+    ],
+    [
+
+      "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",
+      "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",
+
+      "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",
+      "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",
+
+      "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",
+      "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",
+
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+
+      "KC_NO",
+      "KC_NO",
+      "KC_NO2
+
+    ],
+    [
+      "RALT(KC_1)", "RALT(KC_2)", "RALT(KC_3)", "RALT(KC_4)", "RALT(KC_5)",
+      "RALT(KC_6)", "RALT(KC_7)", "RALT(KC_8)", "RALT(KC_9)", "RALT(KC_0)",
+
+      "LCA(KC_1)", "LCA(KC_2)", "LCA(KC_3)", "LCA(KC_4)", "LCA(KC_5)",
+      "LCA(KC_6)", "LCA(KC_7)", "LCA(KC_8)", "LCA(KC_9)", "LCA(KC_0)",
+
+      "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",
+      "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO",
+
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+
+      "KC_NO",
+      "KC_TRNS",
+      "KC_NO"
+
+    ]
+  ],
+  "author": "Anonymous <free.malikbenkirane+ann@gmail.com"
+}
