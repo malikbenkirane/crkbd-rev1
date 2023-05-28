@@ -11,7 +11,9 @@ mapping evolution of the ckbd/rev1 made by falba.tech helidox mini aka corne min
 
 ## Layers
 
-![L0](./scrots/l0.png)
-![L1](./scrots/l1.png)
-![L2](./scrots/l2.png)
-![L3](./scrots/l3.png)
+|layer|screenshot|
+|-|-|
+|L0|![L0](./scrots/l0.png)|
+|L1|![L1](./scrots/l1.png)|
+|L2|![L2](./scrots/l2.png)|
+|L3|![L3](./scrots/l3.png)|
