@@ -9,6 +9,9 @@ mapping evolution of the ckbd/rev1 made by falba.tech helidox mini aka corne min
 - compile and download firmware or use layout.hex
 - flash firmware with QMK Toolbox or any another qmk toolkit
 
+Alternatively, read https://github.com/foostan/crkbd/blob/main/doc/firmware_en.md
+It's really worth it! You will find an alternative toolkit and more details on how to setup your crkbd corne keyboard.
+
 ## Layers
 
 |layer|screenshot|
